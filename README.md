@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Karan551/FrontEnd_mentor_card_component)
+- Solution URL: [Solution URL here](https://github.com/Karan551/FrontEnd_mentor_card_component)
 - Live Site URL: [Live site URL here](https://karan551.github.io/FrontEnd_mentor_card_component/)
 
 ## My process
